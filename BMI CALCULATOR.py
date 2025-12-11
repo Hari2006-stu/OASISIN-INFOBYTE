@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk, messagebox
-
+# Summa
 def reset_entry():
     height_tf.delete(0, 'end')
     weight_tf.delete(0, 'end')
